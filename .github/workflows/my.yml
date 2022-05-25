@@ -36,8 +36,8 @@ jobs:
             # version: 6.2.4-25556
           # - platform: ds3615xs
             # version: 7.0.1-42218
-          # - platform: ds3615xs
-            # version: 7.1.0-42661
+          - platform: ds3615xs
+            version: 7.1.0-42661
 
           # - platform: ds3617xs
             # version: 7.0.1-42218
@@ -66,8 +66,7 @@ jobs:
           # - platform: dva3221
             # version: 7.1.0-42661
             
-          - platform: fs6400
-            version: 7.1.0-42661  
+ 
           
 
     steps:
